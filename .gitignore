@@ -1,0 +1,46 @@
+# 🛑 Virtual environments
+venv/
+.env/
+.venv/
+
+# 🚀 Compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ⚙️ Logs and debug files
+*.log
+logs/
+
+# 📦 Build & distribution
+build/
+dist/
+*.egg-info/
+*.spec
+
+# 🧪 Testing and coverage reports
+htmlcov/
+.tox/
+.nosetests/
+.coverage
+.pytest_cache/
+.mypy_cache/
+
+# 📂 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🎯 IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🔐 Environment variables and secrets
+.env
+secrets.json
+config.json
+
+# 📌 macOS & Windows system files
+.DS_Store
+Thumbs.db
